@@ -1,4 +1,4 @@
-# Cat-Phot-App
+# Etta's FreeCodeCamp.org homework
 My project from freecodecamp.org.  Course new responsive web design.
 
 
